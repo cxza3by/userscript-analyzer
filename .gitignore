@@ -7,3 +7,5 @@ answer.md
 scripts/*
 
 !scripts/input_script.js
+!scripts/safe_script.js
+!scripts/unsafe_script.js
