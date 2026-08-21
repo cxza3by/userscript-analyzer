@@ -1,0 +1,9 @@
+.env
+venv/
+.venv/
+
+reports/*
+answer.md
+scripts/*
+
+!scripts/input_script.js
